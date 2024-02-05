@@ -130,13 +130,13 @@
 //Q24.
 //Answer
   // Ticket price
-//   let ticketPrice = 600;
+//   var ticketPrice = 600;
 
   // Number of tickets to buy
-//   let numberOfTickets = 5;
+//   var numberOfTickets = 5;
 
   // Calculate the total cost
-//   let totalCost = ticketPrice * numberOfTickets;
+//   var totalCost = ticketPrice * numberOfTickets;
 
   // Display the result in the browser
 //   document.write("<h1>The cost of buying " + numberOfTickets + " movie tickets is: " + totalCost + " PKR</h1>");
@@ -146,12 +146,12 @@
 
 
   // Number for multiplication table
-//   let multiplier = 7;
+//   var multiplier = 7;
 
   // Display the multiplication table in the browser
 //   document.write("<h2>Multiplication Table of " + multiplier + "</h2>");
-//   for (let i = 1; i <= 10; i++) {
-    //   let result = multiplier * i;
+//   for (var i = 1; i <= 10; i++) {
+    //   var result = multiplier * i;
     //   document.write("<p>" + multiplier + " x " + i + " = " + result + "</p>")};
 
     // THANKS YOU SIR FOR WATCHING MY ASSINGMENT ....
