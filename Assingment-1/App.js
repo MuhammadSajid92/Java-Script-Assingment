@@ -153,3 +153,5 @@
 //   for (let i = 1; i <= 10; i++) {
     //   let result = multiplier * i;
     //   document.write("<p>" + multiplier + " x " + i + " = " + result + "</p>")};
+
+    // THANKS YOU SIR FOR WATCHING MY ASSINGMENT ....
